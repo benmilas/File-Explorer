@@ -1,21 +1,3 @@
-///////////////////// TOP OF FILE COMMENT BLOCK ///////////////////////////////
-//
-// Title: File Explorer
-// Course: CS 300 Fall 2020
-//
-// Author: Ben Milas
-// Email: bmilas@wisc.edu
-// Lecturer: Hobbes LeGault
-
-///////////////////////////// OUTSIDE HELP CREDIT /////////////////////////////
-//
-// Persons: NONE
-// Online Sources:
-// https://stackoverflow.com/questions/40540915/how-to-find-a-file-recursively-in-java/40541501
-// This source helped me when I was struggling to search by file name recursively.
-// A large chunk of my work in searchByName() and searchByNameHelper() is based on this source.
-///////////////////////////////////////////////////////////////////////////////
-
 import java.io.File;
 import java.nio.file.NotDirectoryException;
 import java.util.ArrayList;
